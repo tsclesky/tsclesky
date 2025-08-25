@@ -1,4 +1,9 @@
-## Hi there 👋
+## Trevor Sclesky
+
+# computer science
+
+# Current projects
+  1. lab 1
 
 <!--
 **tsclesky/tsclesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
