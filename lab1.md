@@ -43,7 +43,7 @@ My Command Line Shell is: Powershell
 8. Move the file named `test.txt` into `DirA`: Move-Item -Path C:\Users\trevor\test.txt -Destination C:\Users\trevor\dirA
 9. Contents of `test.txt`: nothing it is blank??????
 ```
-Put your words here
+ nothing it is blank??????
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: Copy-Item "C:\Users\trevor\DirA\test.txt" -Destination "C:\Users\trevor\DirA\copy.txt"
 11. View the contents of `DirA`: cd C:\Users\trevor\DirA >then> ls
