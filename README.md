@@ -3,7 +3,7 @@
 ### computer science
 
 ### Current projects
-  1. simon says game
+  1. Simon says game
   2. text based dungeon crawler
 
 <!--
