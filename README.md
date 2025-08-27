@@ -1,9 +1,10 @@
 ## Trevor Sclesky
 
-# computer science
+### computer science
 
-# Current projects
-  1. lab 1
+### Current projects
+  1. simon says game
+  2. text based dungeon crawler
 
 <!--
 **tsclesky/tsclesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
