@@ -4,7 +4,9 @@
 
 ### Current projects
   1. Simon says game
-  2. text based dungeon crawler
+     -java based simon says game need to repete the numbers or colors generated on the screen
+  3. text based dungeon crawler
+     -text based dungeon crawler game that has monsters within the area that the player needs to fight to escape.
 
 <!--
 **tsclesky/tsclesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
